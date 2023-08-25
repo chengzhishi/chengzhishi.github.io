@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>ISEC 460</p>
+    <p>805 Columbus Ave,</p>
+    <p>Boston, MA 02120</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
